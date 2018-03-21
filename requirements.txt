@@ -1,0 +1,6 @@
+Django==2.0.3
+django-user-accounts==2.0.3
+pinax-eventlog==2.0.3
+pinax-stripe==4.1.0
+pinax-templates==1.0.4
+pinax-webanalytics==4.0.2
